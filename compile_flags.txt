@@ -1,1 +1,2 @@
--std=c11
+--language=c++
+-std=c++20
