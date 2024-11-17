@@ -1,7 +1,7 @@
-//文件名:exp7-1.cpp
+﻿//文件名:exp7-1.cpp
 #include "btree.cpp"   //包含二叉树的基本运算算法
 int main()
-{	BTNode *b,*p,*lp,*rp;;
+{	BTNode *b,*p,*lp,*rp;
 	printf("二叉树的基本运算如下:\n");
 	printf("  (1)创建二叉树\n");
 	CreateBTree(b,"A(B(D,E(H(J,K(L,M(,N))))),C(F,G(,I)))");
